@@ -63,6 +63,18 @@
             "Oracle.EntityFrameworkCore": {
               "target": "Package",
               "version": "[2.19.70, )"
+            },
+            "Serilog.AspNetCore": {
+              "target": "Package",
+              "version": "[3.2.0, )"
+            },
+            "Serilog.Settings.Configuration": {
+              "target": "Package",
+              "version": "[3.1.0, )"
+            },
+            "Serilog.Sinks.MSSqlServer": {
+              "target": "Package",
+              "version": "[5.4.0, )"
             }
           },
           "imports": [
